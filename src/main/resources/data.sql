@@ -1,0 +1,1 @@
+INSERT INTO dvt__tp_params_web VALUES ('app.properties.custom','alfa'), ('app.properties.random','true');
